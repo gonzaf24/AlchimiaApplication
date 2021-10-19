@@ -4,11 +4,11 @@
 
 
 Demo:
-<h3> www.alchimia.app </h3>
+<h3> www.alchimia.app o https://alchimiaapi.web.app/ </h3>
 
 Usuario de Prueba
-user: gon@gon.com
- psw: gonzalo
+<p>user: gon@gon.com </p>
+<p>password: gonzalo </p>
 
 <h4> Alchimia (FRONT)</h4>
 
