@@ -1,0 +1,13 @@
+[
+  { "id": "Arte" },
+  { "id": "Musica" },
+  { "id": "Moda" },
+  { "id": "Enseñanza" },
+  { "id": "Medicina" },
+  { "id": "Comunicacion" },
+  { "id": "Ingenieria" },
+  { "id": "Publicidad y Relaciones" },
+  { "id": "Abogacía" },
+  { "id": "Derecho" },
+  { "id": "Otros" }
+]

@@ -1,0 +1,43 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.02647c9a8473e210af3fd7f92ad127b3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.82feb68df0b1b7301c08076c12451c92.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.e4c79aa48b586d132653b55adeb6c50e.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.327f9646ffd5c578995b844b7fcf9079.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.9981f8e9ed63c3182bc5ea27068e7732.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.844ec92d70403f31037478025b305a8d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Alchimia - Tu app de conexiones",
+  "short_name": "Alchimia - Tu app de conexiones",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "shortname": "Alchimia",
+  "description": "Con Alchimia puedes encontrar y crear",
+  "background_color": "#fff",
+  "theme_color": "#b1a"
+}
